@@ -9,6 +9,7 @@
 ## Blog Posts
 
 </div>
+
 <!-- BLOG-POST-LIST:START -->
 - [Journey to C++](https://dev.to/eagle1309/journey-to-c-44ak)
 - [Web Development on android!](https://dev.to/eagle1309/web-development-on-android-14a5)
