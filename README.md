@@ -3,7 +3,6 @@
 ## Hi there, I am Eagle
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=Reimagine+Creativity+%E2%9C%A8;Welcome+to+GitHub+of+Eagle;Check+out+vibral.tk)](https://vibral.tk)
-[![Repos Badge](https://badges.pufler.dev/repos/EAGLE1309)](https://vibral.tk)
 
 
 ## Blog Posts
