@@ -38,6 +38,6 @@ A passionate developer based in India, working ambitiously to accomplish and cre
 
 <h3>Stats:</h3>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=eagle1309&theme=dracula&show_icons=true&locale=en" alt="eagle1309" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eagle1309&theme=dracula&show_icons=true&locale=en" alt="eagle1309" /></p>
 
 
