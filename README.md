@@ -7,13 +7,11 @@ A passionate developer based in India, working ambitiously to accomplish and cre
 
 - 🌱 I’m currently learning **NextJs and Backend Development.**
 
-- 👨‍💻 All of my projects are available at [https://eagledev.ml](https://eagledev.ml)
+- 👨‍💻 All of my projects are available at [https://eagledev.netlify.app](https://eagledev.ml)
 
 - 📝 I regularly write articles on [https://dev.to/eagle1309](https://dev.to/eagle1309)
 
 - 📫 How to reach me **eagle.business00@gmail.com**
-
-- ⚡ Fun fact **I code everything on android (I use chakra ui for responsive design).**
 
 <br />
 
