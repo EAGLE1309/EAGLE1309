@@ -6,12 +6,10 @@
   <a href="https://eagledev.in"><img src="./assets/badge-site.svg" height="40" alt="eagledev.in"></a>
   <a href="https://x.com/eagledev_"><img src="./assets/badge-x.svg" height="40" alt="X: @eagledev_"></a>
   <a href="https://www.linkedin.com/in/vighnesh-bangar"><img src="./assets/badge-linkedin.svg" height="40" alt="LinkedIn"></a>
-  <a href="https://solithix.com"><img src="./assets/badge-solithix.svg" height="40" alt="Solithix Studios"></a>
 </p>
 <p align="center">
+  <a href="https://solithix.com"><img src="./assets/badge-solithix.svg" height="40" alt="Solithix Studios"></a>
   <a href="https://dev.to/eagle1309"><img src="./assets/badge-devto.svg" height="40" alt="dev.to"></a>
-  <a href="https://instagram.com/eagledev_"><img src="./assets/badge-instagram.svg" height="40" alt="Instagram"></a>
-  <a href="https://discord.gg/axkn2U9ErP"><img src="./assets/badge-discord.svg" height="40" alt="Discord"></a>
   <a href="mailto:eagle.business00@gmail.com"><img src="./assets/badge-email.svg" height="40" alt="Email"></a>
 </p>
 
