@@ -53,13 +53,11 @@ I build products end to end, mostly SaaS and enterprise tools. I also keep a cor
 <p align="center"><img src="./assets/plaque-stats.svg" width="100%" alt="Stats"></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EAGLE1309&show_icons=true&border_radius=0&bg_color=161d19&title_color=e2a94a&text_color=efe4c9&icon_color=6f8a3c&border_color=5e5444&ring_color=e2a94a" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EAGLE1309&layout=compact&border_radius=0&bg_color=161d19&title_color=e2a94a&text_color=efe4c9&border_color=5e5444" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EAGLE1309&show_icons=true&border_radius=0&bg_color=161d19&title_color=e2a94a&text_color=efe4c9&icon_color=6f8a3c&border_color=5e5444&ring_color=e2a94a&disable_animations=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAGLE1309&layout=compact&border_radius=0&bg_color=161d19&title_color=e2a94a&text_color=efe4c9&border_color=5e5444&disable_animations=true" alt="Top languages">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EAGLE1309&border_radius=0&background=161d19&border=5e5444&stroke=5e5444&ring=e2a94a&fire=e2a94a&currStreakNum=efe4c9&sideNums=efe4c9&currStreakLabel=e2a94a&sideLabels=e2a94a&dates=a8936c" alt="Contribution streak">
 </p>
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
-
-<p align="center"><sub>Pixel art, statues and stone badges generated in code · logos from <a href="https://thesvg.org">theSVG</a></sub></p>
