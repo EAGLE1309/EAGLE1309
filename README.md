@@ -1,69 +1,65 @@
-<h2> Hey there, I'm Vighnesh aka. Eagle 🦅</h2>
-<p>
-A passionate full-stack developer and studio founder based in India, focused on building high-performance, scalable web products.
-Currently working deeply with modern frontend systems and production-ready backend architectures.
+<p align="center">
+  <img src="./assets/header.gif" width="100%" alt="Pixel art of a lone figure in a glowing meadow under a giant blue-and-green planet and a starry night sky">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=%235DD090&size=30&duration=3000&center=true&lines=Reimagine+Creativity+%E2%9C%A8;Building+Scalable+Web+Systems;Founder+at+Solithix;Welcome+to+Eagle's+GitHub)](https://eagledev.in)
-
-- 🌱 Currently mastering **Next.js (App Router), TypeScript & Scalable Backend Systems**
-- 🏗 Founder & Lead Developer at **[Solithix](https://solithix.com)** — a web & branding studio
-- 👨‍💻 Portfolio & projects: **[https://eagledev.in](https://eagledev.in)**
-- 📝 Writing technical articles at **[dev.to/eagle1309](https://dev.to/eagle1309)**
-- 📫 Reach me at **eagle.business00@gmail.com**
-
-<br />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/eagle1309" target="blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-<a href="https://twitter.com/eagledev_" target="blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-<a href="https://instagram.com/eagledev_" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://discord.gg/axkn2U9ErP" target="blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://eagledev.in"><img src="./assets/badge-site.svg" height="40" alt="eagledev.in"></a>
+  <a href="https://x.com/eagledev_"><img src="./assets/badge-x.svg" height="40" alt="X: @eagledev_"></a>
+  <a href="https://www.linkedin.com/in/vighnesh-bangar"><img src="./assets/badge-linkedin.svg" height="40" alt="LinkedIn"></a>
+  <a href="https://solithix.com"><img src="./assets/badge-solithix.svg" height="40" alt="Solithix Studios"></a>
+</p>
+<p align="center">
+  <a href="https://dev.to/eagle1309"><img src="./assets/badge-devto.svg" height="40" alt="dev.to"></a>
+  <a href="https://instagram.com/eagledev_"><img src="./assets/badge-instagram.svg" height="40" alt="Instagram"></a>
+  <a href="https://discord.gg/axkn2U9ErP"><img src="./assets/badge-discord.svg" height="40" alt="Discord"></a>
+  <a href="mailto:eagle.business00@gmail.com"><img src="./assets/badge-email.svg" height="40" alt="Email"></a>
 </p>
 
-<br />
+<p align="center"><img src="./assets/plaque-about.svg" width="100%" alt="About"></p>
 
-<h3 align="left">Tech Stack & Tools</h3>
+Hi, I'm **Vighnesh**, though most people call me **Eagle**. I'm a design and full-stack engineer from Pune and the founder of **[Solithix Studios](https://solithix.com)**, a design and engineering studio.
 
-### Core
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I build products end to end, mostly SaaS and enterprise tools. I also keep a corner of my work for creative coding with WebGL, GLSL and React Three Fiber.
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/tailwindcss-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakraUI-4ED1C5?style=for-the-badge&logo=chakraui&logoColor=white)
+<!-- Building section hidden for now: remove these comment markers to show it again
+<p align="center"><img src="./assets/plaque-building.svg" width="100%" alt="Building"></p>
 
-### Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/drizzle-000000?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Convex](https://img.shields.io/badge/convex-1E1E1E?style=for-the-badge)
+- **[Solithix Studios](https://solithix.com)**: design and engineering partner for founders
+- **[Mission Control](https://eagledev.in/blog/why-i-built-mission-control)**: my open-source multi-agent research tool
+- **[Fathom](https://github.com/EAGLE1309/fathom-search-engine)**: a search engine built from scratch, with an AI agent interface
+- **[Always Reflection](https://always-reflection.vercel.app)**: a Minecraft Bedrock shader pack with reflective water and reworked lighting
+- **ReWater**: a water treatment monitoring platform that won Smart India Hackathon 2025
+-->
 
-### DevOps & Tooling
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center"><img src="./assets/plaque-stack.svg" width="100%" alt="The stack"></p>
 
-<br />
-
-<h3>GitHub Stats</h3>
-
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eagle1309&theme=dracula&show_icons=true"/>
+<p align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Tech stack: Next.js, React, TypeScript, Tailwind, Astro, Three.js / R3F, WebGL, Node.js, PostgreSQL, Drizzle, Convex, Better Auth, Sanity, Python, Claude Code, Langfuse, v0, OpenAI, Figma, Vercel, GitHub">
 </p>
+
+<p align="center"><img src="./assets/plaque-garden.svg" width="100%" alt="The garden"></p>
+
+<p align="center">
+  <img src="./assets/statue-garden-v2.gif" width="100%" alt="Pixel art garden of marble statues shaped like the Claude Code, Next.js, Figma, TypeScript and React logos">
+</p>
+
+<p align="center"><img src="./assets/plaque-writing.svg" width="100%" alt="Writing"></p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➜ More on **[dev.to/eagle1309](https://dev.to/eagle1309)** and **[eagledev.in](https://eagledev.in)**
+
+<p align="center"><img src="./assets/plaque-stats.svg" width="100%" alt="Stats"></p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EAGLE1309&show_icons=true&border_radius=0&bg_color=161d19&title_color=e2a94a&text_color=efe4c9&icon_color=6f8a3c&border_color=5e5444&ring_color=e2a94a" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EAGLE1309&layout=compact&border_radius=0&bg_color=161d19&title_color=e2a94a&text_color=efe4c9&border_color=5e5444" alt="Top languages">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EAGLE1309&border_radius=0&background=161d19&border=5e5444&stroke=5e5444&ring=e2a94a&fire=e2a94a&currStreakNum=efe4c9&sideNums=efe4c9&currStreakLabel=e2a94a&sideLabels=e2a94a&dates=a8936c" alt="Contribution streak">
+</p>
+
+<p align="center"><img src="./assets/divider.svg" width="100%" alt=""></p>
+
+<p align="center"><sub>Pixel art, statues and stone badges generated in code · logos from <a href="https://thesvg.org">theSVG</a></sub></p>
