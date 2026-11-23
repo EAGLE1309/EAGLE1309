@@ -15,9 +15,9 @@
 
 <p align="center"><img src="./assets/plaque-about.svg" width="100%" alt="About"></p>
 
-Hi, I'm **Vighnesh**, though most people call me **Eagle**. I'm a design and full-stack engineer from Pune and the founder of **[Solithix Studios](https://solithix.com)**, a design and engineering studio.
+Hi, I'm **Vighnesh**, though most people call me **Eagle**. I'm a product designer and yeah with great fullstack dev experience too.
 
-I build products end to end, mostly SaaS and enterprise tools. I also keep a corner of my work for creative coding with WebGL, GLSL and React Three Fiber.
+I build products end to end, mostly SaaS and enterprise tools. I also keep a corner of my work for creative coding with WebGL, GLSL and React Three.
 
 <!-- Building section hidden for now: remove these comment markers to show it again
 <p align="center"><img src="./assets/plaque-building.svg" width="100%" alt="Building"></p>
